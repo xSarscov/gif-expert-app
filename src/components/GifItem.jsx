@@ -1,4 +1,4 @@
-import { PropTypes } from "./index"
+import PropTypes from 'prop-types';
 
 export const GifItem = ({title, url}) => {
   return (
